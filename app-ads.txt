@@ -7,12 +7,12 @@ anzu.io, 691e95644e633a6eee2567ee, RESELLER, 1c1b7acf4992136c
 app-stock.com, 256917, RESELLER
 app-stock.com, 358747, RESELLER
 appads.in, 106246, RESELLER
-appnexus.com, 6849, RESELLER
 appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12061, RESELLER, f5ab79cb980f11d1
 appnexus.com, 14230, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15980, RESELLER, f5ab79cb980f11d1
 appnexus.com, 17779, RESELLER
+appnexus.com, 6849, RESELLER
 betweendigital.com, 45827, RESELLER
 bidmachine.io, 1371, RESELLER
 blueseasx.com, 203625, RESELLER
@@ -38,8 +38,8 @@ kidoz.net, 14260, RESELLER, a109366414b7335e
 kidoz.net, 15467, RESELLER, a109366414b7335e
 lacunads.com, lcb555b3bc8667a09a, RESELLER
 lijit.com, 528770, RESELLER, fafdf38b16bf6b2b
-loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
 mars.media, 1010442, RESELLER
 media.net, 8cu12aq1y, RESELLER
